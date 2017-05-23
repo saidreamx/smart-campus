@@ -1,0 +1,2 @@
+# smart-campus
+educational site
